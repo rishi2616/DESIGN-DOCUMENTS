@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style">
+  <notation:Diagram xmi:id="_uk-C8GQ4Eem2Y6hsjkkbew" type="PapyrusUMLSequenceDiagram" name="Sequence Diagram" measurementUnit="Pixel">
+    <children xsi:type="notation:Shape" xmi:id="_uk-C8WQ4Eem2Y6hsjkkbew" type="Interaction_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_uk-C8mQ4Eem2Y6hsjkkbew" type="Interaction_NameLabel"/>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_uk-C82Q4Eem2Y6hsjkkbew" type="Interaction_SubfragmentCompartment">
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_uk-C9GQ4Eem2Y6hsjkkbew"/>
+      </children>
+      <element href="model.uml#_uj-kcGQ4Eem2Y6hsjkkbew"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_uk-C9WQ4Eem2Y6hsjkkbew"/>
+    </children>
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_uk-C9mQ4Eem2Y6hsjkkbew" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_uk-C92Q4Eem2Y6hsjkkbew"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_uk-C-GQ4Eem2Y6hsjkkbew" diagramKindId="org.eclipse.papyrus.uml.diagram.sequence">
+      <owner href="model.uml#_ujW5YGQ4Eem2Y6hsjkkbew"/>
+    </styles>
+    <element href="model.uml#_uj-kcGQ4Eem2Y6hsjkkbew"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_ulau4GQ4Eem2Y6hsjkkbew" type="PapyrusUMLClassDiagram" name="Class Diagram" measurementUnit="Pixel">
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_ulau4WQ4Eem2Y6hsjkkbew" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_ulau4mQ4Eem2Y6hsjkkbew"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_ulau42Q4Eem2Y6hsjkkbew" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+      <owner href="model.uml#_ujW5YGQ4Eem2Y6hsjkkbew"/>
+    </styles>
+    <element href="model.uml#_ujW5YGQ4Eem2Y6hsjkkbew"/>
+  </notation:Diagram>
+</xmi:XMI>
